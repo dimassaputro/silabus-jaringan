@@ -5,4 +5,5 @@
 ### Koor 2 :
 
 ## Silabus
-### Pengenalan Jaringan Komputer
+
+- Pengenalan Jaringan Komputer
