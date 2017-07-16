@@ -32,7 +32,7 @@
 - Pelatihan ("Network Security System" 30 Peserta, Target Peserta UDINUS) Non RKT
 Ini bertujuan pelatihan dasar sistem keamanan untuk penyebaran malware/serangan sistem komputer yang penyebarannya lewat jaringan internet.
 
-- Lomba (Kolaborasi dengan Programming Web)
+- Lomba (Kolaborasi dengan Programming Web) "Saran mas mirza"
 //Lomba bersama divisi web progamming untuk mengikuti lomba Hacker yang diadakan oleh IDN pada tahun depan.
   
 - Ngurusin Server Doscom
