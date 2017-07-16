@@ -27,7 +27,7 @@
 
 ## Program Kerja Setahun Kedepan
 
--Kumpul DOSCOM divisi jaringan setiap 2 minggu sekali. Tujuannya untuk sharing pengetahuan jaringan sesuai silabus dan mempererat hubungan di divisi jaringan.
+- Kumpul DOSCOM divisi jaringan setiap 2 minggu sekali. Tujuannya untuk sharing pengetahuan jaringan sesuai silabus dan mempererat hubungan di divisi jaringan.
 
 - Pelatihan ("Network Security System" 30 Peserta, Target Peserta UDINUS) Non RKT
 Ini bertujuan pelatihan dasar sistem keamanan untuk penyebaran malware/serangan sistem komputer yang penyebarannya lewat jaringan internet.
