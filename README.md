@@ -23,3 +23,9 @@
 - MikroTik Advanced
 
 - Server Lanjut
+
+## Program Kerja Setahun Kedepan
+
+- Pelatihan
+
+- Lomba
