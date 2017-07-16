@@ -27,7 +27,7 @@
 
 ## Program Kerja Setahun Kedepan
 
-- Pelatihan
+- Pelatihan (Keamanan Jaringan) Non RKT
 
 - Lomba
 
