@@ -24,8 +24,13 @@
 
 - Server Lanjut
 
+
 ## Program Kerja Setahun Kedepan
 
 - Pelatihan
 
 - Lomba
+
+- Ngurusin Server Doscom
+
+- Ngurusin Hotspot Doscom
