@@ -27,10 +27,17 @@
 
 ## Program Kerja Setahun Kedepan
 
-- Pelatihan (Keamanan Jaringan) Non RKT
+-Kumpul DOSCOM divisi jaringan setiap 2 minggu sekali. Tujuannya untuk sharing pengetahuan jaringan sesuai silabus dan mempererat hubungan di divisi jaringan.
 
-- Lomba
+- Pelatihan ("Network Security System" 30 Peserta, Target Peserta UDINUS) Non RKT
+Ini bertujuan pelatihan dasar sistem keamanan untuk penyebaran malware/serangan sistem komputer yang penyebarannya lewat jaringan internet.
 
+- Lomba (Kolaborasi dengan Programming Web)
+//Lomba bersama divisi web progamming untuk mengikuti lomba Hacker yang diadakan oleh IDN pada tahun depan.
+  
 - Ngurusin Server Doscom
 
 - Ngurusin Hotspot Doscom
+
+-Pelatihan install Ulang
+Ini bertujuan untuk menginstall ulang PC bagi orang awam yang ingin jaringan awal-awal.
