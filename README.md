@@ -1,3 +1,8 @@
-# silabus-jaringan
+# Pengurus Jaringan dan Silabus
 
--- Koordinator --
+## Koordinator 
+### Koor 1 :
+### Koor 2 :
+
+## Silabus
+### Pengenalan Jaringan Komputer
