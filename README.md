@@ -39,5 +39,5 @@ Ini bertujuan pelatihan dasar sistem keamanan untuk penyebaran malware/serangan 
 
 - Ngurusin Hotspot Doscom
 
--Pelatihan install Ulang
+- Pelatihan install Ulang
 Ini bertujuan untuk menginstall ulang PC bagi orang awam yang ingin jaringan awal-awal.
